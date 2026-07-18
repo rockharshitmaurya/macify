@@ -20,6 +20,12 @@ One command turns a stock Ubuntu desktop into a clean macOS-style setup -
 themes, icons, cursors, dock and blur - with numbered progress steps,
 colored output and a full log if anything goes wrong.
 
+<p align="center">
+  <img src="screenshot.png" alt="Ubuntu GNOME with macify applied - WhiteSur dark theme, macOS-style dock and windows" width="100%">
+  <br>
+  <sub>Preview from the <a href="https://github.com/vinceliuice/WhiteSur-gtk-theme">WhiteSur theme</a> macify installs</sub>
+</p>
+
 Bundles existing projects - nothing reinvented:
 
 - [WhiteSur GTK theme](https://github.com/vinceliuice/WhiteSur-gtk-theme)
