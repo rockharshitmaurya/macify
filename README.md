@@ -5,7 +5,6 @@
   <img alt="desktop" src="https://img.shields.io/badge/desktop-GNOME-4a86cf?logo=gnome&logoColor=white">
   <img alt="shell" src="https://img.shields.io/badge/made%20with-bash-121011?logo=gnubash&logoColor=white">
   <img alt="license" src="https://img.shields.io/badge/license-MIT-green">
-  <a href="https://github.com/rockharshitmaurya/macify/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/rockharshitmaurya/macify?style=flat&logo=github&color=f9d094"></a>
   <img alt="visitors" src="https://api.visitorbadge.io/api/visitors?path=rockharshitmaurya%2Fmacify&label=visitors&countColor=%23e95420">
 </p>
 
